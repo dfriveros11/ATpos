@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ATposPay
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arcadia
+Implementation-Vendor-Id: edu.uniandes.isis2503.diego-daniel-daniela-j
+ uan
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ATposPay
+Created-By: Maven Integration for Eclipse
+
